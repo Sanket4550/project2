@@ -1,3 +1,3 @@
 #New Project
 
-This is created by Sanket Divate
+This is created by Sanket Divate.
